@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script>
+        window.onload = function () {
+            var clockEle = document.getElementById("clock");
+            var now = Date();
+            clockEle.innerHTML = now;
+            setTimeout(window.onload, 1000);//一秒以后再次执行
+        }
+
+        var name = decodeURIComponent(window.location.search.substring('?')) || "";
+        document.write("Hello " + name)
+    </script>
+</head>
+<p id="clock"></p>
+<input type="checkbox" name="op" value="gift" onchange="order.options.gift = this.checked;">
+
+<a href="javascript:alert(new Date().toLocaleDateString());">what time is it?</a>
+
+<a href="javascript:void window.open('http://www.baidu.com');">what time is it?</a>
+
+</body>
+
+
+</html>

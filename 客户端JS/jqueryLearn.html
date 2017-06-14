@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSLearn</title>
+    <script type="text/javascript" src="../jquery-3.2.0/jquery-3.2.0.js" charset="UTF-8"></script>
+    <script type="text/javascript">
+        $(function ($) {
+            console.log(this)
+        })
+    </script>
+</head>
+
+<body>
+<h1>whait!!!!!!!</h1>
+<textarea></textarea>
+
+<script type="text/javascript">
+
+    $('textarea').text('<span>wjat?</span>')
+
+    var img = $("<img/>", {
+        src : '../source/14.png',
+        css:{borderWidth:10},
+        click:function () {
+            console.log('click')
+        }});
+    $('body').append(img)
+
+    $('body').each(function (idx, dom) {
+        console.log(idx, dom)
+        console.log(this)
+    })
+    img.slideUp()
+//    img.slideDown()
+    img.slideToggle()
+    img.bind({
+        mouseover:function () {
+            $(this).stop().fadeTo(300, 1.0);
+        },
+        mouseout:function () {
+            $(this).stop().fadeTo(300, 0.5);
+        }
+    })
+
+    $('h1').fadeIn().delay(200).queue(function () {
+        console.log(this);
+        console.log($(this));
+        $(this).text('FUCK');
+        $(this).dequeue()
+    }).animate({borderWidth:'+=10px;'})
+
+
+//    img.animate({
+////        height:0,
+//        opacity:'-=.5'
+//    },
+//            {
+//                complete:function () {
+////                    this.width = this.width * 2;
+//                }
+//            }
+//            )
+//    setInterval(img.slideDown())
+//    img.click()
+//    img.trigger('click')
+//    img.fadeOut({
+//        duration:'slow',
+//        complete:function () {
+//            console.log('finished')
+//        }
+//    })
+
+
+
+    //    console.log(img, typeof img)
+//    console.log($(img), typeof $(img))
+//    console.log($('script').attr('src'))
+//    console.log(img.attr('src'))
+//    $('h1').text('FUCKYOU')
+//    $('h1').data('x',1)
+//    console.log($('h1').data('x'))
+//    $('h1').prepend('<br/>')
+//    $('h1').append('<br/>')
+//    $('h1').before('<br/>')
+//    $('h1').after('<br/>')
+//    $('h1').wrapInner('<h2>what!</h2>>')
+</script>
+</body>
+
+
+
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/2000/svg">
+<head>
+    <meta charset="UTF-8">
+    <title>多媒体和图形</title>
+    <script type="text/javascript" src="../jquery-3.2.0/jquery-3.2.0.js" charset="UTF-8"></script>
+    <script src="rollover.js"></script>
+</head>
+<body>
+<img src="../source/14.png" data-rollover = "../source/15.jpeg">
+<audio id = "music" controls="True">
+    <source src="../source/JasonChen.mp3" type="audio/mpeg">
+</audio>
+
+<svg x="0" y = "0" width="10" height="10" fill="red">
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0, 0, 1000, 1000">
+
+<defs>
+    <linearGradient id="fade">
+        <stop offset="0%", stop-color="#008"/>
+        <stop offset="100%", stop-color="#ccf"/>
+        </linearGradient>
+</defs>
+    <rect x="100" y="200",
+          width="800" height="600"
+          stroke="black" stroke-width="25"
+          fill="url(#fade)"></rect>
+</svg>
+
+
+
+<script type="text/javascript">
+//    var a = new Audio();
+//    if(a.canPlayType("audio/wav")){
+//        a.src = "../source/JasonChen.mp3";
+//        a.play();
+////        a.currentTime = 12;
+//    }
+</script>
+</body>
+</html>

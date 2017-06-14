@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <svg width="960" height="500"></svg>
+    <script type="text/javascript" src="../d3-3.4.11/d3.js"></script>
+</head>
+<body>
+<div> </div>
+<div> </div>
+<div> </div>
+
+<script type="text/javascript">
+    d3.selectAll('div').attr('class', "red box")
+            .each(function (d, i) {
+                d3.select(this).append('h1').text(i);
+            });
+
+    d3.selectAll('div')
+            .select('h1')//子选择器
+            .attr('class', 'blue box')
+
+
+    //绑定数据
+    var data = [10, 15, 20, 30, 8, 10,40, 30]
+    function render(data) {
+        d3.select("svg")
+                .selectAll("div.h-bar")
+                .data(data)
+                .enter()
+                .append("span")
+                .attr("class", 'h-bar')
+                .attr("width", function (d) {
+                    return (d*3) + 'px'
+                })
+                .text(function (d) {
+                    return d;
+                });
+
+//        d3.select("body")
+//                .selectAll("div.h-bar")
+//                .data(data).enter()
+//                .select("span")
+//                .attr("width", function (d) {
+//                    return (d*3) + 'px'
+//                });
+//                .text(function (d) {
+//                    return d;
+//                });
+
+        d3.select("body")
+                .selectAll("div.h-bar")
+//                .data(data)
+//                .exit()
+                .remove();
+
+    };
+
+    setInterval(function () {
+        data.shift();
+        data.push(Math.round(Math.random() * 100));
+        render(data);
+    }, 1500)
+</script>
+
+</body>
+</html>
