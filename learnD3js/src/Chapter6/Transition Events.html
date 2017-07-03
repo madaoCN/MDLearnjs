@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>transition Events</title>
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+</head>
+<body>
+
+<script type="text/javascript">
+
+    var body = d3.select("body"),
+            druation = 3000;
+    body.append("div")
+            .classed("box", true)
+            .style("background-color", "green")
+            .transition()
+            .duration(druation)
+            .each("start" , function () {
+                console.log("start");
+            })
+
+            .each("end" , function () {
+                console.log("end");
+
+            })
+            .style("background-color", "red")
+            .style("margin-left", "600px")
+            .style("width", "100px")
+            .style("height", "100px")
+    ;
+</script>
+
+</body>
+</html>

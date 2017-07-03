@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multi Element Transition</title>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>reScale</title>
+
+        <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+        <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+    </head>
+</head>
+<body>
+
+<script>
+    var data = [],
+            druation = 500,
+            id = 0,
+            charH = 100,
+            charW = 680;
+
+    for (var i = 0; i < 20; i++){
+        data.push(data);
+    }
+
+
+    function render() {
+
+        var selection = d3.select("body")
+                .selectAll("div.v-bar")
+                .data(data, function(d){return d.id;}); // <-A
+
+        //enter
+        selection.enter()
+                .append("div")
+                .attr("class", "v-bar")
+                .style("position", "fixed")
+                .style("top", charH + "px")
+                .style("left", function(d, i){
+                    return barLeft(i+1) + "px"; // <-B
+                })
+                .style("height", "0px") // <-C
+                .append("span");
+
+        //update
+        selection.transition().duration(druation)
+                .style("top", function (d) {
+                    return charH - barHeight(d) + "px";
+                })
+                .style("left", function(d, i){
+                    return barLeft(i) + "px";
+                })
+                .style("height", function (d) {
+                    return barHeight(d) + "px";
+                })
+                .select("span")
+                .text(function (d) {
+                    return d.value;
+                });
+
+        //exit
+        selection.exit()
+                .transition().duration(druation)
+                .style("left", function (d) {
+                    return barHeight(-1) + "px";
+                })
+                .remove();
+    }
+
+    function push(data) {
+        data.push({
+            id: ++id,
+            value: Math.round(Math.random() * charH)
+        });
+    }
+
+    function barLeft(i) {
+        return i * (30 + 2);
+    }
+
+    function barHeight(d) {
+        return d.value;
+    }
+
+
+
+        setInterval(function () {
+        data.shift();//删除第一个值
+        push(data);
+        render(data);
+    }, 2000);
+
+    d3.select("body")
+            .append("div")
+            .attr("class", "baseline")
+            .style("position", "fixed")
+            .style("top", charH + "px")
+            .style("left", "0px")
+            .style("width", charW + "px");
+</script>
+</body>
+</html>

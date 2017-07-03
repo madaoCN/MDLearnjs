@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>transition Chain</title>
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+<body>
+
+
+<script type="text/javascript">
+
+    var body = d3.select("body");
+
+    function teleport(s){
+        s.transition().duration(300) // <-A
+                .style("width", "200px")//先压缩成1条线
+                .style("height", "1px")
+                .style("top", "80px")
+                .transition().duration(100) // <-B
+                .style("left", "600px")
+                .transition().duration(300) // <-C
+                .style("top", "0px")
+                .style("left", "800px")
+                .style("height", "80px")
+                .style("width", "80px");
+    }
+
+    body.append("div")
+            .style("position", "fixed")
+            .style("background-color", "steelblue")
+            .style("left", "10px")
+            .style("width", "80px")
+            .style("height", "80px")
+            .call(teleport); // <-D
+</script>
+
+
+</body>
+</html>

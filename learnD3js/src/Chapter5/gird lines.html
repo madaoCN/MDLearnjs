@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gird lines</title>
+
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+<body>
+
+    <script>
+        var height = 500,
+                width = 500,
+                margin = 25;
+        var svg = d3.select("body").append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .attr("class", "axis");
+
+        //render x Axis
+        function renderXAxis() {
+
+            var axisLength = width - 2 * margin;
+
+            // create scale
+            var scale = d3.scale.linear()
+                    .domain([0, 100])
+                    .range([0, axisLength]);
+
+            var xAxis = d3.svg.axis()
+                    .scale(scale)
+                    .orient("bottom");
+
+            svg.append("g")
+                    .attr("class", "x-aixs")
+                    .attr("transform", function () {
+
+                        return "translate(" + margin + "," + (height - margin) + ")";
+                    })
+                    .call(xAxis);
+
+            // create grid line
+            d3.selectAll("g.x-aixs g.tick")
+                    .append("line")
+                    .classed("grid-line", true)
+                    .attr("x1", 0)
+                    .attr("y1", 0)
+                    .attr("x2", 0)
+                    .attr("y2", - (height - 2 * margin));
+        }
+
+        //render y Axis
+        function renderYAxis() {
+
+            var axisLength = width - 2 * margin;
+            // creat scale
+            var scale = d3.scale.linear()
+                    .domain([100, 0])
+                    .range([0, axisLength]);
+            // create axis
+            var yAxis = d3.svg.axis()
+                    .scale(scale)
+                    .orient("left");
+            //create svg content
+            svg.append("g")
+                    .attr("class", "y-aixs")
+                    .attr("transform", function () {
+
+                        return "translate(" + margin + "," + margin + ")";
+                    })
+                    .call(yAxis);
+
+            // create grid line
+            d3.selectAll("g.y-aixs g.tick")
+                    .append("line")
+                    .classed("grid-line", true)
+                    .attr("x1", 0)
+                    .attr("y1", 0)
+                    .attr("x2", height - 2 * margin)
+                    .attr("y2", 0);
+        }
+
+
+
+        renderXAxis()
+        renderYAxis()
+    </script>
+
+
+</body>
+</html>

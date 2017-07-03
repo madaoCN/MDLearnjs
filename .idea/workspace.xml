@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4321c50b-8f26-4672-a948-4fe6fb6d5cbe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mdLearnjs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/.bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/align-text/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/align-text/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/align-text/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/align-text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/camelcase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/camelcase/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/camelcase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/camelcase/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/center-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/center-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/center-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/center-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/center-align/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/cliui/test/cliui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/.spmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/bin/meteor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/bin/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/bin/uglify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/ascending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/bisect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/descending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/deviation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/entries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/extent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/mean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/median.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/nest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/pairs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/permute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/quantile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/shuffle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/transpose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/values.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/variance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/arrays/zip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/behavior/behavior.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/behavior/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/behavior/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/behavior/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/hcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/hsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/lab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/rgb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/color/xyz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/compat/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/compat/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/compat/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/functor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/noop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/ns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/rebind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/subclass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/true.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/core/zero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/dsv/csv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/dsv/dsv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/dsv/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/dsv/tsv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/dispatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/touches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/formatPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/precision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/requote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/format/round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/albers-usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/albers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/azimuthal-equal-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/azimuthal-equidistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/azimuthal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/bounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/cartesian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/centroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/clip-antimeridian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/clip-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/clip-extent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/clip-polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/conic-conformal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/conic-equal-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/conic-equidistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/conic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/distance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/equirectangular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/geo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/gnomonic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/graticule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/greatArc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/interpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/length.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/orthographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path-bounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path-buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path-centroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path-context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/point-in-polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/projection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/resample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/rotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/spherical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/stereographic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geo/transverse-mercator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/clip-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/delaunay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/geom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/hull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/quadtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/beach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/edge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/geom/voronoi/red-black.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/hcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/hsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/interpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/lab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/rgb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/uninterpolate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/interpolate/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/cluster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/force.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/hierarchy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/histogram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/partition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/layout/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/de-CH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/en-CA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/en-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/fi-FI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/fr-CA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/mk-MK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/number-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/time-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/time-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/locale/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/abs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/adder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/random.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/math/trigonometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/bilinear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/linear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/nice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/ordinal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/polylinear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/quantile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/quantize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/sqrt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/append.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/classed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/datum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/enter-insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/enter-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/enter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/interrupt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/selectAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/selection/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/arc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/area-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/brush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/chord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/diagonal-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/diagonal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/line-radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/day.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/format-iso.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/format-utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/hour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/interval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/minute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/scale-utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/time/year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/ease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/selectAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/subtransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/transition/tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/decamelize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/decamelize/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/decamelize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/decamelize/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/is-buffer/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/lazy-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/lazy-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/lazy-cache/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/lazy-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/longest/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/longest/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/longest/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/longest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/repeat-string/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/repeat-string/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/repeat-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/repeat-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/right-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/right-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/right-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/right-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/dist/source-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/dist/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/dist/source-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/dist/source-map.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/quick-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/source-map/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/mozilla-ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/propmangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/sourcemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/tools/domprops.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/tools/exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/tools/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-js/tools/props.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/window-size/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/window-size/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/window-size/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/window-size/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/completion.sh.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/lib/completion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/lib/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/lib/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/node_modules/yargs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/ArrayAsData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/AsyncDataLoad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/DataSort.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/FuncAsData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/ObjectAsData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter3/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter4/Date Scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter4/Quantitative Scales.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter4/String Interpolate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter4/ordinal Scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter5/basic axies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter5/gird lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter5/reScale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter5/ticks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Easing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Multi  Element Transition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Single Element Transition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Timer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/transition Chain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter6/tweening.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/playground.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learnD3js/Force Dragging III.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learnD3js/Stacked Negative Values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learnD3js/miserables.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learnD3js/playground.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learnD3js/playground.js" afterPath="" />
+    </list>
+    <ignored path="mdLearnjs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mdLearnjs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Single Element Transition.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Single Element Transition.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Easing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Easing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tweening.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/tweening.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="78" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transition Chain.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/transition Chain.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="37" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transition Filter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Filter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="31" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transition Events.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Events.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Timer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Timer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Simple Shapes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lines.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="playground.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learnD3js/package.json" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/CSS/style.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/CSS/style.css" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/ArrayAsData.html" />
+        <option value="$PROJECT_DIR$/learnD3js/css/style.css" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/ObjectAsData.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/FuncAsData.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/DataSort.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/data.json" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter3/AsyncDataLoad.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter4/Quantitative Scales.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter4/Date Scale.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter4/ordinal Scale.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter4/String Interpolate.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter5/basic axies.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter5/ticks.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter5/gird lines.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter5/reScale.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Multi  Element Transition.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Easing.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Single Element Transition.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/tweening.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/transition Chain.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Filter.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Events.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter6/Timer.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/playground.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/learnD3js/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="200" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnD3js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdLearnjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnD3js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learnD3js/css" />
+      <recent name="$PROJECT_DIR$/learnD3js/src/Chapter3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Date Scale.html">
+    <configuration default="false" name="Date Scale.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mdLearnjs/learnD3js/src/Chapter4/Date Scale.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Date Scale.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Date Scale.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4321c50b-8f26-4672-a948-4fe6fb6d5cbe" name="Default" comment="" />
+      <created>1497448727774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497448727774</updated>
+      <workItem from="1497448733154" duration="1808000" />
+      <workItem from="1497450888162" duration="921000" />
+      <workItem from="1497795545209" duration="4804000" />
+      <workItem from="1498312987337" duration="21249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="200" y="23" width="1400" height="970" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/ObjectAsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/FuncAsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/DataSort.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/AsyncDataLoad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3-4.7.4/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219887">
+          <caret line="11573" column="2" selection-start-line="11573" selection-start-column="2" selection-end-line="11573" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146357">
+          <caret line="7703" column="4" selection-start-line="7703" selection-start-column="4" selection-end-line="7703" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/linear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/Force Dragging III.html" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/playground.html" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/Stacked Negative Values.html" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/miserables.json" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/playground.js" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/CSS/style.html" />
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/scale/linear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3-4.7.4/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219887">
+          <caret line="11573" column="2" selection-start-line="11573" selection-start-column="2" selection-end-line="11573" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146357">
+          <caret line="7703" column="4" selection-start-line="7703" selection-start-column="4" selection-end-line="7703" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3439">
+          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/FuncAsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/ArrayAsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/DataSort.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/ObjectAsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/AsyncDataLoad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter4/Date Scale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter4/Quantitative Scales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+          <folding>
+            <element signature="e#379#383#0" expanded="true" />
+            <element signature="e#393#397#0" expanded="true" />
+            <element signature="e#515#519#0" expanded="true" />
+            <element signature="e#531#535#0" expanded="true" />
+            <element signature="e#656#660#0" expanded="true" />
+            <element signature="e#675#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter4/ordinal Scale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter4/String Interpolate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter5/basic axies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/svg/axis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="143" column="2" selection-start-line="143" selection-start-column="2" selection-end-line="143" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3-3.4.11/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="8745" column="4" selection-start-line="8745" selection-start-column="4" selection-end-line="8745" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter5/ticks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="48" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter5/gird lines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="81" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter5/reScale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Multi  Element Transition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Easing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/tweening.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="78" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/transition Chain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="37" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Transition Events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Single Element Transition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter6/Timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

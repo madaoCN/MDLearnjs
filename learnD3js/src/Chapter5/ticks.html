@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ticks</title>
+        <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+        <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+    </head>
+</head>
+
+<body>
+
+<script type="text/javascript">
+    var height = 500,
+            width = 500,
+            margin = 25,
+            offset = 50,
+            axisWidth = width - 2 * margin,
+            svg;
+
+    function createSvg() {
+        svg = d3.select("body").append("svg")
+                .attr("class", "axis")
+                .attr("width", width)
+                .attr("height", height);
+    }
+
+    function renderAxis(scale, i, orient) {
+
+        var axis = d3.svg.axis()
+                .scale(scale)
+                .orient(orient)
+                .ticks(5)
+                .tickSubdivide(5)
+                .tickPadding(10)
+                .tickFormat(function (v) {
+                    return v + "s";
+                });
+
+        svg.append("g")
+                .attr("transform", function () {
+                    if(["top", "bottom"].indexOf(orient) >= 0)
+                        return "translate(" + margin + "," + i * offset + ")";
+                    else
+                        return "translate(" + i * offset + ", " + margin + ")";
+                })
+                .call(axis);
+    }
+
+    if(svg) svg.remove();
+
+    createSvg();
+
+    renderAxis(d3.scale.linear()
+            .domain([0, 1000])
+            .range([0, axisWidth]), 1, "top");
+
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ordinal Scales</title>
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+<body>
+
+
+<div id="ordinal-scale" class="clear"><span>n</span></div>
+
+
+<script type="text/javascript">
+
+    var ordinalScales = d3.scale.ordinal()
+            .range(["#1f77b4", "#ff7f0e", "#2ca02c"]);
+
+
+    function render(data, scale, selector) {
+
+        d3.select(selector).selectAll("div.cell")
+                .data(data)
+                .enter()
+                .append("div").classed("cell", "true");
+
+        d3.select(selector).selectAll("div.cell")
+                .data(data)
+                .exit()
+                .remove();
+
+        d3.select(selector).selectAll("div.cell")
+                .data(data)
+                .style("display", "inline-block")
+                .style("background-color",function (d) {
+
+                    return  scale(d).indexOf("#") >=0 ? scale(d): "white";
+                })
+                .text(function (d) {
+
+                    return d + "  " + scale(d);
+                })
+    }
+
+    render([1, 2, 3], ordinalScales, "#ordinal-scale")
+
+</script>
+
+
+</body>
+</html>

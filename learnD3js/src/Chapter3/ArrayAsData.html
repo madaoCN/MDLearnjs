@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array As Data</title>
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+<body>
+
+
+
+<script type="text/javascript">
+    var data = [10, 15, 30, 50, 21, 60 , 30];
+
+    function render(data) {
+
+        //enter
+        d3.select("body").selectAll("div.h-bar")
+                .data(data)
+                .enter()
+                .append("div")
+                .attr("class", "h-bar")
+                .append("span");
+
+        //update
+        d3.select("body").selectAll("div.h-bar")
+                .data(data)
+                .style("width", function (d)  {
+                    return (d*3)+"px";
+                })
+                .select("span")
+                .text(function (d) {
+                    return d;
+                })
+        //eixt
+        d3.select("body").selectAll("div.h-bar")
+                .data(data)
+                .exit()
+                .remove();
+    }
+
+    render(data)
+</script>
+</body>
+</html>
