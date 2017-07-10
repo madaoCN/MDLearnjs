@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Area</title>
+
+    <link rel="stylesheet", type="text/css", href="../../css/style.css">
+
+    <script type="text/javascript" src="../../node_modules/d3/d3.js"></script>
+</head>
+
+
+<body>
+
+<script type="text/javascript">
+
+    var height = 500,
+            width = 500,
+            margin = 50
+    duration = 3000;
+    var svg = d3.select("body").append("svg");
+    var x = d3.scale.linear() // <-A
+                    .domain([0, 10])
+                    .range([margin, width - margin]),
+            y = d3.scale.linear() // <-B
+                    .domain([0, 10])
+                    .range([height - margin, margin]);//差值计算
+
+    svg.attr("height", height)
+            .attr("width", width);
+    var data = d3.range(10).map(function(i){
+        return {x: i, y: Math.sin(i) + 5};
+    });
+    //render axis
+    function renderAxis(svg) {
+
+        var xAxis = d3.svg.axis()
+                .scale(d3.scale.linear()
+                        .range([0, quadrantWidth()]))
+                .orient("bottom");
+        var yAxis = d3.svg.axis()
+                .scale(d3.scale.linear()
+                        .range([quadrantHeight(), 0]))
+                .orient("left");
+
+        svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", function () {
+                    return "translate(" + xStart()
+                            + "," + yStart() + ")";
+                })
+                .call(xAxis);
+        svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", function () {
+                    return "translate(" + xStart()
+                            + "," + yEnd() + ")";
+                })
+                .call(yAxis);
+    }
+
+
+    // render path
+
+    var line = d3.svg.line() // <-D
+            .interpolate("cardinal")
+            .x(function(d){return x(d.x);})
+            .y(function(d){return y(d.y);});
+    svg.selectAll("path")
+            .data(data)
+            .enter()
+            .append("path") // <-E
+            .attr("class", "line")
+            .attr("d", function(d){return line(d);}); // <-F
+
+    // change Tension
+    d3.selectAll("path.line")
+            .data([0.8])//change the tension
+            .transition().duration(duration).ease("linear")
+            .attr("d", function (d) {
+                console.log(d);
+                console.log(line.tension(d)(data));
+                return line.tension(d)(data);
+            });
+
+    // render Area
+    var area = d3.svg.area()
+            .x(function (d) {
+                return x(d.x);
+            })
+            .y0(y(0))
+            .y1(function (d) {
+                return y(d.y);
+            })
+    svg.selectAll("path.area")
+            .data([data])
+            .enter()
+            .append("path")
+            .attr("class", "area")
+            .attr("d", function (d) {
+                return area(d);
+            })
+
+    renderAxis(svg);
+    renderDots(svg);
+    function xStart(){
+        return margin;
+    }
+
+    function yStart(){
+        return height - margin;
+    }
+
+    function xEnd(){
+        return width - margin;
+    }
+
+    function yEnd(){
+        return margin;
+    }
+
+    function quadrantWidth(){
+        return width - 2 * margin;
+    }
+
+    function quadrantHeight(){
+        return height - 2 * margin;
+    }
+
+    function renderDots(svg) {
+
+
+        svg.append("g").selectAll("circle")
+                .data(data)
+                .enter()
+                .append("circle")
+                .attr("class", "dot")
+                .attr("cx", function (d) {
+                    return x(d.x);
+                })
+                .attr("cy", function (d) {
+                    return y(d.y);
+                })
+                .attr("r", 4.5);
+    }
+
+
+</script>
+
+
+</body>
+</html>

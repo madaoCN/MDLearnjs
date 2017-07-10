@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lines</title>
+    <title>Line Interpolation</title>
 
     <link rel="stylesheet", type="text/css", href="../../css/style.css">
 
@@ -14,16 +14,19 @@
 
 <script type="text/javascript">
 
-    var width = 500,
-            height = 500,
-            margin = 50,
-            x = d3.scale.linear() // <-A
+    var height = 500,
+            width = 500,
+            margin = 50;
+    var svg = d3.select("body").append("svg");
+    var x = d3.scale.linear() // <-A
                     .domain([0, 10])
                     .range([margin, width - margin]),
             y = d3.scale.linear() // <-B
                     .domain([0, 10])
-                    .range([height - margin, margin]);
+                    .range([height - margin, margin]);//差值计算
 
+    svg.attr("height", height)
+            .attr("width", width);
     var data = [ // <-C
         [
             {x: 0, y: 5},{x: 1, y: 9},{x: 2, y: 7},
@@ -35,53 +38,50 @@
             return {x: i, y: Math.sin(i) + 5};
         }),
     ];
-    var line = d3.svg.line() // <-D
-            .x(function(d){return x(d.x);})
-            .y(function(d){return y(d.y);});
-
-    var svg = d3.select("body").append("svg");
-
-    svg.attr("height", height)
-            .attr("width", width);
-
-    svg.selectAll("path")
-            .data(data)
-            .enter()
-            .append("path") // <-E
-            .attr("class", "line")
-            .attr("d", function(d){return line(d);}); // <-F
-    renderAxis(svg);
-    // render the axis
+    //render axis
     function renderAxis(svg) {
 
         var xAxis = d3.svg.axis()
                 .scale(d3.scale.linear()
                         .range([0, quadrantWidth()]))
                 .orient("bottom");
-
         var yAxis = d3.svg.axis()
                 .scale(d3.scale.linear()
                         .range([quadrantHeight(), 0]))
                 .orient("left");
 
-
         svg.append("g")
                 .attr("class", "axis")
-                .attr("transform", function(){
+                .attr("transform", function () {
                     return "translate(" + xStart()
                             + "," + yStart() + ")";
                 })
                 .call(xAxis);
-
         svg.append("g")
                 .attr("class", "axis")
-                .attr("transform", function(){
+                .attr("transform", function () {
                     return "translate(" + xStart()
                             + "," + yEnd() + ")";
                 })
                 .call(yAxis);
     }
 
+
+    // render path
+
+    var line = d3.svg.line() // <-D
+            .interpolate("step-after")
+            .x(function(d){return x(d.x);})
+            .y(function(d){return y(d.y);});
+    svg.selectAll("path")
+            .data(data)
+            .enter()
+            .append("path") // <-E
+            .attr("class", "line")
+            .attr("d", function(d){return line(d);}); // <-F
+
+    renderAxis(svg);
+    renderDots(svg);
     function xStart(){
         return margin;
     }
@@ -105,6 +105,26 @@
     function quadrantHeight(){
         return height - 2 * margin;
     }
+
+    function renderDots(svg) {
+
+        data.forEach(function (set) {
+
+            svg.append("g").selectAll("circle")
+                    .data(set)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "dot")
+                    .attr("cx", function (d) {
+                        return x(d.x);
+                    })
+                    .attr("cy", function (d) {
+                        return y(d.y);
+                    })
+                    .attr("r", 4.5);
+        })
+    }
+
 
 </script>
 
