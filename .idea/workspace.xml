@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4321c50b-8f26-4672-a948-4fe6fb6d5cbe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter10/Mouse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter10/Mulit-Touch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Arc Transition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Line Interplation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Line Tension.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter8/BarChart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter8/BubbleChart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter8/LineChart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter8/ScatterChart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/Expand Area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/Packet Bubble Chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/PieChart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/Stack Area Chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/StreamGraph.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/Tree Map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/Tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/flare.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter9/simple-flare.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter10/Drag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter10/Zoom &amp;&amp; Pan.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Lines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html" afterPath="$PROJECT_DIR$/learnD3js/src/Chapter7/Simple Shapes.html" />
     </list>
     <ignored path="mdLearnjs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,42 +37,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mouse.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Mouse.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="55" column="5" selection-start-line="47" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mulit-Touch.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mulit-Touch.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Mulit-Touch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+            <state relative-caret-position="399">
+              <caret line="51" column="7" selection-start-line="40" selection-start-column="4" selection-end-line="51" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Area.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Area.html">
+      <file leaf-file-name="Zoom &amp;&amp; Pan.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Zoom &amp;&amp; Pan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="46" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="310">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arc Transition.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter7/Arc Transition.html">
+      <file leaf-file-name="Drag.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Drag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="177">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xhr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/xhr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1520">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,6 +145,8 @@
         <option value="$PROJECT_DIR$/learnD3js/src/Chapter9/Tree.html" />
         <option value="$PROJECT_DIR$/learnD3js/src/Chapter10/Mouse.html" />
         <option value="$PROJECT_DIR$/learnD3js/src/Chapter10/Mulit-Touch.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter10/Zoom &amp;&amp; Pan.html" />
+        <option value="$PROJECT_DIR$/learnD3js/src/Chapter10/Drag.html" />
       </list>
     </option>
   </component>
@@ -175,10 +160,10 @@
     <handled-path value="$PROJECT_DIR$/learnD3js/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="402" />
-    <option name="y" value="95" />
+    <option name="x" value="478" />
+    <option name="y" value="37" />
     <option name="width" value="1400" />
-    <option name="height" value="970" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -252,50 +237,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdLearnjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdLearnjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learnD3js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdLearnjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdLearnjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learnD3js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,18 +346,18 @@
       <workItem from="1497795545209" duration="4804000" />
       <workItem from="1498312987337" duration="34712000" />
       <workItem from="1499382381214" duration="6767000" />
-      <workItem from="1499640387707" duration="4288000" />
+      <workItem from="1499640387707" duration="6393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53300000" />
+    <option name="totallyTimeSpent" value="55405000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="402" y="95" width="1400" height="970" extended-state="0" />
-    <editor active="true" />
+    <frame x="478" y="37" width="1400" height="971" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -450,34 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/ArrayAsData.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/DataSort.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/ObjectAsData.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter3/AsyncDataLoad.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -766,14 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Mouse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
@@ -800,8 +705,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Mulit-Touch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        <state relative-caret-position="399">
+          <caret line="51" column="7" selection-start-line="40" selection-start-column="4" selection-end-line="51" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/playground.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/event/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/node_modules/d3/src/xhr/xhr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Drag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnD3js/src/Chapter10/Zoom &amp;&amp; Pan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
           <folding />
         </state>
       </provider>
