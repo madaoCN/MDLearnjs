@@ -33,16 +33,14 @@
 
         selection.enter().append("div").append("span");
 
-        selection.exit().remove();
-
-        selection.attr("class", "v-bar")
-                .style("height", function (d, i) {
-                    return d(i) + "px"; // <- E
+        selection.attr("class", "h-bar")
+                .style("width", function (d, i) {
+                    return d(i) + "px";
                 })
-                .select("span")
-                .text(function(d, i){
-                    return d(i); // <- F
-                });
+                .append("span")
+                .text(function (d, i) {
+                    return d(i);
+                })
     }
 
     setInterval(function () {

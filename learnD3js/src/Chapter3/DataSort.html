@@ -59,12 +59,14 @@
                 });
 
         if(comparator)
+
             d3.select("body")
                     .selectAll("div.h-bar")
                     .sort(comparator); // <-E
     }
 
     var compareByExpense = function (a, b) {  // <-F
+
         return a.expense < b.expense?-1:1;
     };
     var compareByCategory = function (a, b) {  // <-G
